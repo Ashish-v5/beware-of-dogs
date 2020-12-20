@@ -15,7 +15,7 @@ public class House {
     @Override
     public String toString() {
         StringBuilder builder = new StringBuilder();
-        builder.append("В доме находятся:\n");
+        builder.append("There are following residents int the house:\n");
         for (Object resident : residents) {
             builder.append(resident.toString()).append("\n");
         }

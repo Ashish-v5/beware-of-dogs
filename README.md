@@ -1,2 +1,4 @@
-Измени класс House так, чтобы собаки не могли зайти в дом к котам, а коты не могли заходить в дом к собакам.
-Используй дженерики.
+#### **Be aware of dogs**
+
+Change House class in order to dogs cannot enter cats' house and cats cannot enter dogs' house. 
+Use generics.

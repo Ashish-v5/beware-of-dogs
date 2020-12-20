@@ -10,6 +10,6 @@ public class Cat {
 
     @Override
     public String toString() {
-        return "Кот " + name;
+        return "Cat " + name;
     }
 }
