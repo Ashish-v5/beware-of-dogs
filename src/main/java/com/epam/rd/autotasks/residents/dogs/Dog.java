@@ -1,4 +1,4 @@
-package com.epam.lab;
+package com.epam.rd.autotasks.residents.dogs;
 
 public class Dog {
 

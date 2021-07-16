@@ -1,8 +1,7 @@
-package com.epam.lab;
+package com.epam.rd.autotasks.house;
 
 import java.util.ArrayList;
 import java.util.List;
-
 
 public class House {
 
