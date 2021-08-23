@@ -1,4 +1,4 @@
-# Be aware of dogs
+# Beware of dogs
 
 Use generics to change [`House`](src/main/java/com/epam/rd/autotasks/house/House.java) class in order to dogs cannot enter cats' house and cats cannot enter dogs' house. 
 
