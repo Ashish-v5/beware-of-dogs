@@ -1,6 +1,11 @@
 # Beware of dogs
 
-Use generics to change [`House`](src/main/java/com/epam/rd/autotasks/house/House.java) class in order to dogs cannot enter cats' house and cats cannot enter dogs' house. 
+The purpose of this exercise is to train you to work exceptions, to raise them in particular.
+
+Estimated workload of this exercise is _30 min_.
+
+### Description
+Please, use generics to change [`House`](src/main/java/com/epam/rd/autotasks/house/House.java) class in order to dogs cannot enter cats' house and cats cannot enter dogs' house. 
 
 You need to alter `residents` field and `enter` methods of the `House` class.
 
