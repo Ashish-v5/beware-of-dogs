@@ -1,6 +1,6 @@
 # Beware of dogs
 
-The purpose of this exercise is to train you to work exceptions, to raise them in particular.
+The purpose of this exercise is to train you to work with generics.
 
 Estimated workload of this exercise is _30 min_.
 
