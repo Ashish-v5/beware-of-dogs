@@ -17,13 +17,13 @@ public class Main {
         House dogHouse = new House();
         dogHouse.enter(rex);
         dogHouse.enter(randy);
-        dogHouse.enter(murzik); //This must fail on compilation stage. Delete the line when solution is ready
+        dogHouse.enter(murzik); //This must fail on compilation stage if you parameterize the dogHouse. Delete the line when solution is ready
         System.out.println(dogHouse);
 
         House catHouse = new House();
         catHouse.enter(barbos);
         catHouse.enter(murzik);
-        catHouse.enter(rex); //This must fail on compilation stage. Delete the line when solution is ready
+        catHouse.enter(rex); //This must fail on compilation stage if you parameterize the catHouse. Delete the line when solution is ready
         System.out.println(catHouse);
     }
 }
