@@ -3,11 +3,11 @@ package com.epam.rd.autotasks.house;
 import java.util.ArrayList;
 import java.util.List;
 
-public class House {
+public class House <T> {
 
-    private final List residents = new ArrayList();
+    private final List<T> residents = new ArrayList<T> ();
 
-    public void enter(Object resident) {
+    public void enter(T resident) {
         residents.add(resident);
     }
 
